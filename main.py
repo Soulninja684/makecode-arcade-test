@@ -1,0 +1,1 @@
+obj = sprites.create(assets.image("miImagen"), SpriteKind.player)
